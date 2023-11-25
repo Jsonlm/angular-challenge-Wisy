@@ -12,4 +12,4 @@ home
 
 ## Secondary page 
 
-weather/TOP || weather/TOP 
+weather/TOP || weather/LWX
